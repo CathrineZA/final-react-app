@@ -4,7 +4,10 @@
   padding: 16px;
   border-radius: 4px;
   color: rgb(135, 135, 135);
-  background-color: blanchedalmond;
+  text-align: center;
+  background-image: url(pix.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
 }
 
 .Weather h1 {
