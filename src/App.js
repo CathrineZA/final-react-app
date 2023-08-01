@@ -8,7 +8,7 @@ export default function App() {
       <div className="container">
         <Weather defaultCity="Midrand" />
         <footer>
-          This project was coded by {"Cathy Sekhuto"}
+          This project was coded by {"Cathy Sekhuto"} and it's
           <a
             href="https://github.com/CathrineZA/weather-app-react.git"
             target="-blank"

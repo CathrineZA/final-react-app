@@ -1,20 +1,20 @@
 .Weather {
-  font-family: arial, sans-serif;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
   border: 1px solid #dadde1;
-  padding: 16px;
-  border-radius: 4px;
-  color: rgb(135, 135, 135);
-  text-align: center;
+  padding: 40px;
+  margin: 0 200px;
+  border-radius: 8px;
+  text-align: left;
   background-image: url(pix.jpg);
   background-repeat: no-repeat;
   background-size: cover;
 }
 
 .Weather h1 {
-  font-size: 24px;
+  font-size: 35px;
   font-weight: 100;
   margin: 20px 0 0 0;
-  line-height: 29px;
+  line-height: 30px;
 }
 
 .Weather ul {
@@ -50,4 +50,27 @@
   position: relative;
   line-height: 1;
   top: -34px;
+}
+
+.form-control {
+  border: 1 solid #000;
+  border-radius: 5px;
+  block-size: 40px;
+}
+
+.btn {
+  border: 1 solid #000;
+  border-radius: 5px;
+  block-size: 40px;
+  cursor: pointer;
+  color: #dadde1;
+  background-color: rgb(60, 107, 224);
+}
+
+.hm {
+  text-align: right;
+}
+
+.container {
+  text-align: center;
 }
