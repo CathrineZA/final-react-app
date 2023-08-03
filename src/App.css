@@ -59,12 +59,7 @@
 }
 
 .btn {
-  border: 1 solid #000;
-  border-radius: 5px;
-  block-size: 40px;
   cursor: pointer;
-  color: #dadde1;
-  background-color: rgb(60, 107, 224);
 }
 
 .hm {
